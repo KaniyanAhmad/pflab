@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+}
+
+#mainHeading {
+    font-size: 24px;
+    text-align: center;
+}
+
+h2 {
+    color: crimson;
+}
+
+table, th, td {
+    width: 50px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+img {
+    height: 250px;
+}
